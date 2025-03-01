@@ -1,0 +1,546 @@
+Image,Question,Prediction,Ground Truth
+VizWiz_test_00000002.jpg,Has this oven gotten up to four hundred fifty degrees Fahrenheit yet?,white,unanswerable
+VizWiz_test_00000006.jpg,What does it say on here?,water,unanswerable
+VizWiz_test_00000007.jpg,What is this? ,purple,unanswerable
+VizWiz_test_00000017.jpg,How many ounces in this container? ,green,unanswerable
+VizWiz_test_00000029.jpg,What's the expiration date?,grey,unanswerable
+VizWiz_test_00000033.jpg,What does an eagle say?,black,unanswerable
+VizWiz_test_00000037.jpg,What is this?,yes,unanswerable
+VizWiz_test_00000039.jpg,One must try for baking instructions before I play a piece of roulette. ,grey,unanswerable
+VizWiz_test_00000043.jpg,What's this?,no,unanswerable
+VizWiz_test_00000044.jpg,What does this tshirt say?,blue,unanswerable
+VizWiz_test_00000045.jpg,What is this that is hanging on the wall? I would like to know and please give me a detailed description. Thank you.,white,unanswerable
+VizWiz_test_00000046.jpg,Can you tell me whats in this can please?,no,unanswerable
+VizWiz_test_00000047.jpg,What type of pills are these?,white,unanswerable
+VizWiz_test_00000048.jpg,What is this?,blue,unanswerable
+VizWiz_test_00000051.jpg,What is this?,yes,unanswerable
+VizWiz_test_00000052.jpg,Is the picture working on this tv?,yes,unanswerable
+VizWiz_test_00000054.jpg,Can you read the steps and the time for this exerciser?,phone,unanswerable
+VizWiz_test_00000059.jpg,Where was this picture taken?,white,unanswerable
+VizWiz_test_00000062.jpg,Could you please tell me what kind of Keurig coffee this box is?  ,blue,unanswerable
+VizWiz_test_00000064.jpg,what color is this?,no,unanswerable
+VizWiz_test_00000067.jpg,"Wondering what it is, whole milk?",yes,unanswerable
+VizWiz_test_00000070.jpg,What kind of TV dinner is this?,black,unanswerable
+VizWiz_test_00000071.jpg,What kind of pills are these?,water,unanswerable
+VizWiz_test_00000074.jpg,What kind of coffee?,green,unanswerable
+VizWiz_test_00000075.jpg,What is this device?,black,unanswerable
+VizWiz_test_00000080.jpg,Is this a shredder,black,unanswerable
+VizWiz_test_00000081.jpg,What are the instructions for taking this Vitamic C?,yes,unanswerable
+VizWiz_test_00000085.jpg,What is this?,white,unanswerable
+VizWiz_test_00000087.jpg,Does this say readers brand of beef dinner?,yes,unanswerable
+VizWiz_test_00000092.jpg,What is this item?,no,unanswerable
+VizWiz_test_00000093.jpg,What is this can?,white,unanswerable
+VizWiz_test_00000099.jpg,What is this?,yes,unanswerable
+VizWiz_test_00000101.jpg,What's on the computer screen?,no,unanswerable
+VizWiz_test_00000102.jpg,What flavor of dinner is this?,brown,unanswerable
+VizWiz_test_00000103.jpg,can you read what's on the screen?,yes,unanswerable
+VizWiz_test_00000108.jpg,What is in this can?,keyboard,unanswerable
+VizWiz_test_00000110.jpg,What does this flip flop look like?,blue,unanswerable
+VizWiz_test_00000115.jpg,What is this bottle?,grey,unanswerable
+VizWiz_test_00000118.jpg,What's this?,yes,unanswerable
+VizWiz_test_00000119.jpg,What flavor of crust is this?,grey,unanswerable
+VizWiz_test_00000121.jpg,Can you read any of these numbers to me?,yes,unanswerable
+VizWiz_test_00000123.jpg,What does this say?,white,unanswerable
+VizWiz_test_00000124.jpg,What is this?,no,unanswerable
+VizWiz_test_00000127.jpg,What is that bill,yes,unanswerable
+VizWiz_test_00000129.jpg,What is this?,phone,unanswerable
+VizWiz_test_00000132.jpg,What does this shirt say?,yes,unanswerable
+VizWiz_test_00000142.jpg,What is the name of the CD?,yes,unanswerable
+VizWiz_test_00000148.jpg,What is this item? ,wine,unanswerable
+VizWiz_test_00000151.jpg,What color is this shirt? What color is this shirt?,pink,unanswerable
+VizWiz_test_00000153.jpg,What is the title of this book?,remote,unanswerable
+VizWiz_test_00000156.jpg,What does it say on the computer screen?,phone,unanswerable
+VizWiz_test_00000168.jpg,What color is that?,blue,unanswerable
+VizWiz_test_00000172.jpg,Can you tell what the name of this product is?,red,unanswerable
+VizWiz_test_00000177.jpg,"Hi, what is this? ",remote,unanswerable
+VizWiz_test_00000178.jpg,What color is it?,no,unanswerable
+VizWiz_test_00000181.jpg,What is this?,yes,unanswerable
+VizWiz_test_00000183.jpg,What is this?,blue,unanswerable
+VizWiz_test_00000188.jpg,What color is this please?,yes,unanswerable
+VizWiz_test_00000191.jpg,What is it?,keyboard,unanswerable
+VizWiz_test_00000192.jpg,What is the name of this bag? Thank you.,red,unanswerable
+VizWiz_test_00000195.jpg,How many calories are in Ensure?,no,unanswerable
+VizWiz_test_00000198.jpg,Hi there. Can you please tell me what flavor this is? thank you.,yes,unanswerable
+VizWiz_test_00000199.jpg,What are the contents of this can?,yes,unanswerable
+VizWiz_test_00000201.jpg,What is written on this shirt?,blue,unanswerable
+VizWiz_test_00000211.jpg,Can you identify this product?,yes,unanswerable
+VizWiz_test_00000218.jpg,What is the name of the object in the picture?,no,unanswerable
+VizWiz_test_00000225.jpg,Can you tell me what this is?,white,unanswerable
+VizWiz_test_00000229.jpg,What is in this box?,phone,unanswerable
+VizWiz_test_00000230.jpg,how many ,pink,unanswerable
+VizWiz_test_00000232.jpg,What is in this can?,keyboard,unanswerable
+VizWiz_test_00000233.jpg,"WHAT CAN, ER, WHAT'S IN THIS CAN?",yes,unanswerable
+VizWiz_test_00000238.jpg,what is this dish,yes,unanswerable
+VizWiz_test_00000239.jpg,Can someone recognize some kind of label on this network adapter?,black,unanswerable
+VizWiz_test_00000245.jpg,How many countries are in this world?,red,unanswerable
+VizWiz_test_00000246.jpg,What is this cord?,no,unanswerable
+VizWiz_test_00000254.jpg,What is this?,yes,unanswerable
+VizWiz_test_00000255.jpg,What do you see?,yes,unanswerable
+VizWiz_test_00000257.jpg,"What color is it?  Oh, you want web workers and iq engine. So go down.  Ok now go up.",pink,unanswerable
+VizWiz_test_00000258.jpg,What kind of lantern is this?,dog,unanswerable
+VizWiz_test_00000261.jpg,What color is this sweater?,yes,unanswerable
+VizWiz_test_00000265.jpg,Is this chili?,yes,unanswerable
+VizWiz_test_00000270.jpg,Is this cinnamon juju's or regular juju's?,grey,unanswerable
+VizWiz_test_00000282.jpg,What is it?,dog,unanswerable
+VizWiz_test_00000284.jpg,Can you tell what is in the can that I'm holding?,no,unanswerable
+VizWiz_test_00000285.jpg,I'm looking to see whether this C.D. is the third of a collection of fifteen. Can you tell me that? Thank you very much. ,red,unanswerable
+VizWiz_test_00000286.jpg,Does this look like Excedrin?,pink,unanswerable
+VizWiz_test_00000289.jpg,What is this?,yes,unanswerable
+VizWiz_test_00000301.jpg,What is on this page?,tv,unanswerable
+VizWiz_test_00000302.jpg,What type of broth is this?,pink,unanswerable
+VizWiz_test_00000307.jpg,What are the instructions? ,yes,unanswerable
+VizWiz_test_00000315.jpg,What is this?  What is this?,red,unanswerable
+VizWiz_test_00000317.jpg,What is the brand name?,yes,unanswerable
+VizWiz_test_00000318.jpg,What is this?,yes,unanswerable
+VizWiz_test_00000330.jpg,Can you tell what's in the box now? ,green beans,unanswerable
+VizWiz_test_00000331.jpg,What is this?,blue,unanswerable
+VizWiz_test_00000332.jpg,When does this expire?,water,unanswerable
+VizWiz_test_00000333.jpg,What color is?,grey,unanswerable
+VizWiz_test_00000337.jpg,What pills are in this bottle? What kind of pills?,yes,unanswerable
+VizWiz_test_00000340.jpg,What is this?,water,unanswerable
+VizWiz_test_00000347.jpg,What is this?,no,unanswerable
+VizWiz_test_00000353.jpg,Do you guys see what the writing on the top of this says?,no,unanswerable
+VizWiz_test_00000358.jpg,What is this?,blue,unanswerable
+VizWiz_test_00000360.jpg,What is this?,blue,unanswerable
+VizWiz_test_00000362.jpg,What is in this can?,grey,unanswerable
+VizWiz_test_00000363.jpg,What kind of cigarettes are these?,yes,unanswerable
+VizWiz_test_00000365.jpg,What kind of soup is this?,purple,unanswerable
+VizWiz_test_00000368.jpg,What kind of weed is this?,yes,unanswerable
+VizWiz_test_00000374.jpg,What is this item?,yes,unanswerable
+VizWiz_test_00000376.jpg,What is this photo? ,yes,unanswerable
+VizWiz_test_00000378.jpg,How many calories has this soft drink?,white,unanswerable
+VizWiz_test_00000382.jpg,Can you tell me what these buttons say?,phone,unanswerable
+VizWiz_test_00000384.jpg,What is this product?,phone,unanswerable
+VizWiz_test_00000387.jpg,Can you please tell me what is on the screen?,grey,unanswerable
+VizWiz_test_00000391.jpg,"Test, test, test.",keyboard,unanswerable
+VizWiz_test_00000397.jpg,What is this?  What is this? ,grey,unanswerable
+VizWiz_test_00000401.jpg,who is does writing say?,yes,unanswerable
+VizWiz_test_00000402.jpg,What is this?,blue,unanswerable
+VizWiz_test_00000408.jpg,What color is this?,red,unanswerable
+VizWiz_test_00000409.jpg,Where is the dog? ,black,unanswerable
+VizWiz_test_00000410.jpg,"Hello there, I'm just about to put a picture up above my bed but I wonder if you might be able to tell me if it's the right way up.  I know it sounds a bit silly but I'm sure you've heard sillier.  If it's the right way up or upside down.  I have the screws in.",no,unanswerable
+VizWiz_test_00000411.jpg,What veniburg old letters in picture?,no,unanswerable
+VizWiz_test_00000412.jpg,What time is on my cellphone?,yes,unanswerable
+VizWiz_test_00000415.jpg,What does this say? What does it look like?,laptop,unanswerable
+VizWiz_test_00000428.jpg,What food is in this bag,yes,unanswerable
+VizWiz_test_00000434.jpg,What is this?,black,unanswerable
+VizWiz_test_00000436.jpg,Is this a gift card for?,yes,unanswerable
+VizWiz_test_00000439.jpg,What is this?,black,unanswerable
+VizWiz_test_00000446.jpg,i want to know the name of this cologne,green beans,unanswerable
+VizWiz_test_00000449.jpg,What color is this and is it light or dark?,yes,unanswerable
+VizWiz_test_00000451.jpg,What is the item number?,phone,unanswerable
+VizWiz_test_00000452.jpg,What's in this box please? Thank you. ,phone,unanswerable
+VizWiz_test_00000453.jpg,"Hello, I'm Steven. Could you kindly read the label for me please?",white,unanswerable
+VizWiz_test_00000455.jpg,What do I look like?,yes,unanswerable
+VizWiz_test_00000459.jpg,I can't find my cup. Where is my cup?,yes,unanswerable
+VizWiz_test_00000460.jpg,How much does this cost?,white,unanswerable
+VizWiz_test_00000461.jpg,What kind of pop is this?,black,unanswerable
+VizWiz_test_00000467.jpg,What is this?,no,unanswerable
+VizWiz_test_00000470.jpg,Is it boiling yet?,black,unanswerable
+VizWiz_test_00000472.jpg,Do you see a manufacturer and what the name of the collection is?,yes,unanswerable
+VizWiz_test_00000473.jpg,What color is this?,blue,unanswerable
+VizWiz_test_00000476.jpg,"I have a question, can you tell me what time, what this is and how many buses does it have on it?",blue,unanswerable
+VizWiz_test_00000482.jpg,What's on the screen please? ,black,unanswerable
+VizWiz_test_00000488.jpg,Can you tell what type of tea this is?,red,unanswerable
+VizWiz_test_00000495.jpg,What color is that please?,white,unanswerable
+VizWiz_test_00000498.jpg,What is in this box?,water,unanswerable
+VizWiz_test_00000499.jpg,What is this?,blue,unanswerable
+VizWiz_test_00000502.jpg,What color is this shirt?,brown,unanswerable
+VizWiz_test_00000508.jpg,where is the handle,grey,unanswerable
+VizWiz_test_00000512.jpg,What is this?,white,unanswerable
+VizWiz_test_00000515.jpg,What color is this shoe?,grey,unanswerable
+VizWiz_test_00000519.jpg,What does this dialogue box say?,yes,unanswerable
+VizWiz_test_00000526.jpg,What does this screen say?,purple,unanswerable
+VizWiz_test_00000527.jpg,What is this paper?,yes,unanswerable
+VizWiz_test_00000528.jpg,Can you tell me if this thermostat is on and what temperature is it?,blue,unanswerable
+VizWiz_test_00000538.jpg,What do you reckon?,green,unanswerable
+VizWiz_test_00000539.jpg,What does it say on this computer screen.,no,unanswerable
+VizWiz_test_00000540.jpg,Display say.,keyboard,unanswerable
+VizWiz_test_00000542.jpg,Tell me what the label says on this bottle. Thank you.,yes,unanswerable
+VizWiz_test_00000543.jpg,Read all instruction on the books. ,yes,unanswerable
+VizWiz_test_00000545.jpg,What is the expiry date on this yogurt?,yes,unanswerable
+VizWiz_test_00000551.jpg,What color is this shirt?,black,unanswerable
+VizWiz_test_00000553.jpg,What is this?,yes,unanswerable
+VizWiz_test_00000566.jpg,What is this?,phone,unanswerable
+VizWiz_test_00000568.jpg,What CD is this?,blue,unanswerable
+VizWiz_test_00000573.jpg,What is this and is it Blu-Ray?,blue,unanswerable
+VizWiz_test_00000574.jpg,What is this?,blue,unanswerable
+VizWiz_test_00000575.jpg,What colors do you see in this item?,red,unanswerable
+VizWiz_test_00000579.jpg,What is this?,no,unanswerable
+VizWiz_test_00000581.jpg,What is this?,yes,unanswerable
+VizWiz_test_00000582.jpg,What is this? It's Italian. Read as you can.,blue,unanswerable
+VizWiz_test_00000587.jpg,"Hello. What DVD is this, please?",grey,unanswerable
+VizWiz_test_00000592.jpg,Any clouds in the sky?,yes,unanswerable
+VizWiz_test_00000598.jpg,"This is the display of a treadmill. Can you tell me the distance off the top display, please?",no,unanswerable
+VizWiz_test_00000601.jpg,Can you tell me what meal this is?,grey,unanswerable
+VizWiz_test_00000603.jpg,What does it say?  I don't think this works.,yes,unanswerable
+VizWiz_test_00000605.jpg,What flavor is this?,dog,unanswerable
+VizWiz_test_00000606.jpg,What does this sign say?,no,unanswerable
+VizWiz_test_00000609.jpg,What does this piece of paper say?,pink,unanswerable
+VizWiz_test_00000614.jpg,What flavors of jelly beans are in the package?,tv,unanswerable
+VizWiz_test_00000620.jpg,What is this?,red,unanswerable
+VizWiz_test_00000628.jpg,What is this?,no,unanswerable
+VizWiz_test_00000629.jpg,Is there anything listening on the screen?,no,unanswerable
+VizWiz_test_00000631.jpg,What is this?,yes,unanswerable
+VizWiz_test_00000632.jpg,What is this?,no,unanswerable
+VizWiz_test_00000635.jpg,Is the river visible?,yes,unanswerable
+VizWiz_test_00000647.jpg,What brand of water is this?,soup,unanswerable
+VizWiz_test_00000649.jpg,What kind of seasoning is this?,blue,unanswerable
+VizWiz_test_00000654.jpg,What is please?,brown,unanswerable
+VizWiz_test_00000655.jpg,What is this?,wine,unanswerable
+VizWiz_test_00000666.jpg,For how long do I cook this in the microwave?,green,unanswerable
+VizWiz_test_00000667.jpg,"Can you tell me what's actually on the monitor here because of these picture?, Thank you",yes,unanswerable
+VizWiz_test_00000672.jpg,What is the expiration date?,blue,unanswerable
+VizWiz_test_00000681.jpg,What is that label please?,yes,unanswerable
+VizWiz_test_00000687.jpg,What number is this needle pointing to?,white,unanswerable
+VizWiz_test_00000688.jpg,What's this please?,pink,unanswerable
+VizWiz_test_00000690.jpg,Is this a box of cookies?,phone,unanswerable
+VizWiz_test_00000691.jpg,Is the red knob on the right or the left? Is the red knob on the right or left?,yes,unanswerable
+VizWiz_test_00000694.jpg,"What does this menu say, please?",yes,unanswerable
+VizWiz_test_00000701.jpg,What is this picture?,black,unanswerable
+VizWiz_test_00000712.jpg,Im trying this again.,grey,unanswerable
+VizWiz_test_00000713.jpg,What's the dosing instructions for this medicine?,keyboard,unanswerable
+VizWiz_test_00000718.jpg,What color is this bag?,phone,unanswerable
+VizWiz_test_00000720.jpg,Can you tell me what type of sandwich this is? Thank you.,yes,unanswerable
+VizWiz_test_00000723.jpg,"From left to right, what is the names of these bottles? Thank you.",white,unanswerable
+VizWiz_test_00000726.jpg,Can you determine what kind of cereal this is?,black,unanswerable
+VizWiz_test_00000727.jpg,What is it?,black,unanswerable
+VizWiz_test_00000729.jpg,What is this product?,no,unanswerable
+VizWiz_test_00000734.jpg,"Can you tell me what color this t-shirt is, and what it says?",yes,unanswerable
+VizWiz_test_00000742.jpg,What color are these socks?,white,unanswerable
+VizWiz_test_00000746.jpg,What are the instructions listed on the box?,yes,unanswerable
+VizWiz_test_00000747.jpg,What was in this box?,no,unanswerable
+VizWiz_test_00000752.jpg,"Can you tell me if this is an acid fertilizer, or one for roses. Thank you.",no,unanswerable
+VizWiz_test_00000756.jpg,What is this?,yes,unanswerable
+VizWiz_test_00000757.jpg,What does it say on the label?,remote,unanswerable
+VizWiz_test_00000759.jpg,What does the hand written label say?,white,unanswerable
+VizWiz_test_00000760.jpg,What is this item?,dog,unanswerable
+VizWiz_test_00000761.jpg,what kind of yogurt is this,yes,unanswerable
+VizWiz_test_00000766.jpg,Can you tell me what this is?,purple,unanswerable
+VizWiz_test_00000771.jpg,What is in this jar?,green beans,unanswerable
+VizWiz_test_00000778.jpg,Orange or solitary.,black,unanswerable
+VizWiz_test_00000785.jpg,What is the product?,no,unanswerable
+VizWiz_test_00000786.jpg,What product is this?,blue,unanswerable
+VizWiz_test_00000787.jpg,What color is my pajama top?,yes,unanswerable
+VizWiz_test_00000800.jpg,What does the display say?,computer mouse,unanswerable
+VizWiz_test_00000804.jpg,What kind of product is this? ,black,unanswerable
+VizWiz_test_00000805.jpg,What does this box say?,black,unanswerable
+VizWiz_test_00000811.jpg,What is this item?,grey,unanswerable
+VizWiz_test_00000812.jpg,What is this?,no,unanswerable
+VizWiz_test_00000822.jpg,What color is it?,yes,unanswerable
+VizWiz_test_00000830.jpg,What color is it?,grey,unanswerable
+VizWiz_test_00000831.jpg,what kind of matters in this is?,green beans,unanswerable
+VizWiz_test_00000834.jpg,How much money is this?,yes,unanswerable
+VizWiz_test_00000836.jpg,What is this?,red,unanswerable
+VizWiz_test_00000837.jpg,What is this?,yes,unanswerable
+VizWiz_test_00000845.jpg,What is this item?,water,unanswerable
+VizWiz_test_00000846.jpg,What kind of chips they are?,yes,unanswerable
+VizWiz_test_00000848.jpg,What is on this side of the bottle?,no,unanswerable
+VizWiz_test_00000850.jpg,What kind of chips are these?,no,unanswerable
+VizWiz_test_00000859.jpg,"Can you tell me from left to right, control buttons on this oven.",dog,unanswerable
+VizWiz_test_00000861.jpg,What color is this?,no,unanswerable
+VizWiz_test_00000862.jpg,"Can you tell me what's in this box, please?",brown,unanswerable
+VizWiz_test_00000864.jpg,What is this?,grey,unanswerable
+VizWiz_test_00000869.jpg,Am I wearing socks? ,yes,unanswerable
+VizWiz_test_00000870.jpg,Can you tell me what this is?,no,unanswerable
+VizWiz_test_00000871.jpg,What in this tin? Thank you.,no,unanswerable
+VizWiz_test_00000880.jpg,What is this can of food?,red,unanswerable
+VizWiz_test_00000881.jpg,What is in this bottle?,keyboard,unanswerable
+VizWiz_test_00000885.jpg,What color is this?,white,unanswerable
+VizWiz_test_00000888.jpg,What type of motif is on this t-shirt please?,green,unanswerable
+VizWiz_test_00000890.jpg,What is this item?,blue,unanswerable
+VizWiz_test_00000894.jpg,What is this?,no,unanswerable
+VizWiz_test_00000896.jpg,Are you able to tell what flavor this is?,blue,unanswerable
+VizWiz_test_00000897.jpg,"Is that a one dollar bill, a five dollar bill, a ten dollar bill, or a twenty dollar bill? Which one is it?",yes,unanswerable
+VizWiz_test_00000905.jpg,"Can you tell me what this is and how to cook it, please?",blue,unanswerable
+VizWiz_test_00000910.jpg,How much money is this?,yes,unanswerable
+VizWiz_test_00000912.jpg,"Can you tell me if this is corn, please? Thank you.",grey,unanswerable
+VizWiz_test_00000914.jpg,Can you tell me what this says or if there are any pictures on it?,yes,unanswerable
+VizWiz_test_00000920.jpg,What is this?,white,unanswerable
+VizWiz_test_00000923.jpg,What is name of this cat?,no,unanswerable
+VizWiz_test_00000929.jpg,What is this?,yes,unanswerable
+VizWiz_test_00000936.jpg,What is this?,black,unanswerable
+VizWiz_test_00000938.jpg,What color is this candy that's in my hand?,no,unanswerable
+VizWiz_test_00000942.jpg,Is this bathroom clean? Thank you.,yes,unanswerable
+VizWiz_test_00000943.jpg,What's this?,no,unanswerable
+VizWiz_test_00000947.jpg,What type of juice is this?,grey,unanswerable
+VizWiz_test_00000948.jpg,What about now?,no,unanswerable
+VizWiz_test_00000955.jpg,For how long do I cook this in the microwave?,yes,unanswerable
+VizWiz_test_00000956.jpg,What is in this jar?,keyboard,unanswerable
+VizWiz_test_00000957.jpg,what is this poster?,phone,unanswerable
+VizWiz_test_00000965.jpg,What is this?,keyboard,unanswerable
+VizWiz_test_00000966.jpg,What is this?,laptop,unanswerable
+VizWiz_test_00000969.jpg,Is this table lamp on or off?,red,unanswerable
+VizWiz_test_00000975.jpg,What is this?,chair,unanswerable
+VizWiz_test_00000976.jpg,What's on the screen?,phone,unanswerable
+VizWiz_test_00000977.jpg,What is this box?,grey,unanswerable
+VizWiz_test_00000978.jpg,This light blue or grey?,yes,unanswerable
+VizWiz_test_00000982.jpg,What is this?,black,unanswerable
+VizWiz_test_00000983.jpg,What vocab words should I put in the blanks?,yes,unanswerable
+VizWiz_test_00000993.jpg,What book is this?,yes,unanswerable
+VizWiz_test_00000994.jpg,What color is this product?,yes,unanswerable
+VizWiz_test_00000995.jpg, What color is this shirt?,phone,unanswerable
+VizWiz_test_00001004.jpg,What is this bill?,no,unanswerable
+VizWiz_test_00001007.jpg,What are the directions for this meal in the oven?,phone,unanswerable
+VizWiz_test_00001011.jpg,What color is this?,no,unanswerable
+VizWiz_test_00001012.jpg,What color is this sheet?,yes,unanswerable
+VizWiz_test_00001015.jpg,Does this match?,yes,unanswerable
+VizWiz_test_00001016.jpg,What is this?,remote,unanswerable
+VizWiz_test_00001018.jpg,What is this book about?,brown,unanswerable
+VizWiz_test_00001020.jpg,What is it?,yes,unanswerable
+VizWiz_test_00001029.jpg,what does this dial say on this thermostat ,wine,unanswerable
+VizWiz_test_00001032.jpg,"Thank you for the last one. I've gotten another card here, which I hope it's taken a picture of. So perhaps you can tell me what this picture is.",black,unanswerable
+VizWiz_test_00001044.jpg,What is this?,grey,unanswerable
+VizWiz_test_00001046.jpg,What dollar bill is this?  ,no,unanswerable
+VizWiz_test_00001055.jpg,What is this?,grey,unanswerable
+VizWiz_test_00001057.jpg,What type of K Cup is this?,yes,unanswerable
+VizWiz_test_00001061.jpg,What title is it?,no,unanswerable
+VizWiz_test_00001068.jpg,What kind of card is this?,pink,unanswerable
+VizWiz_test_00001069.jpg,What flavor are those noodles?,red,unanswerable
+VizWiz_test_00001073.jpg,What do you see in this picture?,phone,unanswerable
+VizWiz_test_00001075.jpg,What is this?,yes,unanswerable
+VizWiz_test_00001076.jpg,What color is my jacket?,phone,unanswerable
+VizWiz_test_00001079.jpg,What is this?,yes,unanswerable
+VizWiz_test_00001082.jpg,this thing,dog,unanswerable
+VizWiz_test_00001090.jpg,What color is this dinosaur?,no,unanswerable
+VizWiz_test_00001095.jpg,What is it?,purple,unanswerable
+VizWiz_test_00001106.jpg,Didn't do it.  Maybe I did.  Isn't talking to me.  What color are my pants?,no,unanswerable
+VizWiz_test_00001108.jpg,What color are these?,white,unanswerable
+VizWiz_test_00001111.jpg,What is this?,no,unanswerable
+VizWiz_test_00001112.jpg,"Yes, could you me what's on this can? It doesn't have a label. Thank you.",yes,unanswerable
+VizWiz_test_00001114.jpg,What is this? ,water,unanswerable
+VizWiz_test_00001116.jpg,What kind of head set is this?,grey,unanswerable
+VizWiz_test_00001117.jpg,What is this thing?,yes,unanswerable
+VizWiz_test_00001122.jpg,What is that?,yes,unanswerable
+VizWiz_test_00001125.jpg,What does this say?,white,unanswerable
+VizWiz_test_00001130.jpg,where is my cat,yes,unanswerable
+VizWiz_test_00001140.jpg,What's on the screen?,no,unanswerable
+VizWiz_test_00001142.jpg,What color is this?,yes,unanswerable
+VizWiz_test_00001145.jpg,Which thing is in the picture?,white,unanswerable
+VizWiz_test_00001146.jpg,What type of flower is this?,yes,unanswerable
+VizWiz_test_00001147.jpg,Please let me know what is in this Green Mountain coffee box. I think it might be tea.,yes,unanswerable
+VizWiz_test_00001154.jpg,What is this?,no,unanswerable
+VizWiz_test_00001160.jpg,What's on the screen?,yes,unanswerable
+VizWiz_test_00001161.jpg,What is this?,brown,unanswerable
+VizWiz_test_00001163.jpg,Is the amount given in the currency note in this photo,phone,unanswerable
+VizWiz_test_00001164.jpg,Which tv dinner is this and how do I cook it?,yes,unanswerable
+VizWiz_test_00001167.jpg,What does it say right there?,yes,unanswerable
+VizWiz_test_00001173.jpg,What's this?,white,unanswerable
+VizWiz_test_00001177.jpg,What is this object?,no,unanswerable
+VizWiz_test_00001182.jpg,what is this?,yes,unanswerable
+VizWiz_test_00001185.jpg,What is this?,no,unanswerable
+VizWiz_test_00001193.jpg,Disk is this?,red,unanswerable
+VizWiz_test_00001201.jpg,Can you tell me what's in this photo?,grey,unanswerable
+VizWiz_test_00001205.jpg,Does it look sunny outside.,red,unanswerable
+VizWiz_test_00001211.jpg,I'm a participant taking part in the VizWhiz clothing pilot. ,remote,unanswerable
+VizWiz_test_00001212.jpg,What flavor of yogurt is this?,no,unanswerable
+VizWiz_test_00001213.jpg,What's this?,grey,unanswerable
+VizWiz_test_00001214.jpg,What's in this tin?,yes,unanswerable
+VizWiz_test_00001219.jpg,What is the exact name of this product?,yes,unanswerable
+VizWiz_test_00001231.jpg,Is this light and lean TV dinner?,white,unanswerable
+VizWiz_test_00001243.jpg,"What is this, and what color is it, and what does it say on the top? That is my question, thank you.",no,unanswerable
+VizWiz_test_00001246.jpg,what does this say?,yes,unanswerable
+VizWiz_test_00001248.jpg,Can you help me identify this label please? ,dog,unanswerable
+VizWiz_test_00001252.jpg,What color is my shirt? ,no,unanswerable
+VizWiz_test_00001253.jpg,what is this?,purple,unanswerable
+VizWiz_test_00001255.jpg,What is this?,yes,unanswerable
+VizWiz_test_00001257.jpg,What color is this?,white,unanswerable
+VizWiz_test_00001259.jpg,What's on the screen display?,spaghetti meatballs,unanswerable
+VizWiz_test_00001260.jpg,What is that?,grey,unanswerable
+VizWiz_test_00001262.jpg,What flavor is this?,yes,unanswerable
+VizWiz_test_00001268.jpg,"What color are these shorts, please?",dog,unanswerable
+VizWiz_test_00001269.jpg,What is this?,black,unanswerable
+VizWiz_test_00001270.jpg,What is this box?,water,unanswerable
+VizWiz_test_00001273.jpg,Can you see the brand name?,yes,unanswerable
+VizWiz_test_00001274.jpg,What color is this product?,yes,unanswerable
+VizWiz_test_00001281.jpg,Can you please describe what is in this picture? Thank you. ,blue,unanswerable
+VizWiz_test_00001285.jpg,What brand is this?,no,unanswerable
+VizWiz_test_00001286.jpg,What is this title?,red,unanswerable
+VizWiz_test_00001288.jpg,"Sorry about that. I did it wrong before. I'm trying to figure out how -- I mean what -- the shirt that I just sent the photo of, what would that go best with? Number one, what color is the shirt? Number two, would that go best with a gray suit or a blue suit? Sorry.",red,unanswerable
+VizWiz_test_00001291.jpg,Whats this?,red,unanswerable
+VizWiz_test_00001292.jpg,What is this?,white,unanswerable
+VizWiz_test_00001294.jpg,What is this fruit?,green beans,unanswerable
+VizWiz_test_00001295.jpg,What color is the shoes?,white,unanswerable
+VizWiz_test_00001296.jpg,Name this ,purple,unanswerable
+VizWiz_test_00001302.jpg,record what is this,no,unanswerable
+VizWiz_test_00001304.jpg,Hello. What kind of TV dinner is this? Thank you.,phone,unanswerable
+VizWiz_test_00001307.jpg,What kind of Hot Pockets are these?,white,unanswerable
+VizWiz_test_00001308.jpg,What is this?,grey,unanswerable
+VizWiz_test_00001311.jpg,What kind of flower is this?,keyboard,unanswerable
+VizWiz_test_00001318.jpg,What kind of chips are these?,yes,unanswerable
+VizWiz_test_00001321.jpg,What kind of monitor is this?,grey,unanswerable
+VizWiz_test_00001323.jpg,What is this product?,no,unanswerable
+VizWiz_test_00001324.jpg,Can you see the brown,yes,unanswerable
+VizWiz_test_00001332.jpg,What is this?,yes,unanswerable
+VizWiz_test_00001339.jpg,What flavor and brand of k-cup is this please?,white,unanswerable
+VizWiz_test_00001343.jpg,"What is this? I'm trying to find out if it's soup but I can't tell, thanks.",no,unanswerable
+VizWiz_test_00001346.jpg,What is this?,no,unanswerable
+VizWiz_test_00001354.jpg,"Yes, this is a medication bottle.  I'm going to try this again and I just wanted to know if there is a label and dosage information visible.  Thank you.",yes,unanswerable
+VizWiz_test_00001365.jpg,What is this a bottle of?,phone,unanswerable
+VizWiz_test_00001380.jpg,What's in this can?,computer mouse,unanswerable
+VizWiz_test_00001381.jpg,"Can you tell me what's on the stove here? Uh, the buttons from top left to top right.",grey,unanswerable
+VizWiz_test_00001387.jpg,Participating in the fashion pilot study.,no,unanswerable
+VizWiz_test_00001393.jpg,What is this in front of me?,laptop,unanswerable
+VizWiz_test_00001394.jpg,I think the chess piece might be on the floor. Can you look?,grey,unanswerable
+VizWiz_test_00001402.jpg,What is this?  Thank you.,computer mouse,unanswerable
+VizWiz_test_00001411.jpg,What knot is this,red,unanswerable
+VizWiz_test_00001415.jpg,What color is this rug?,no,unanswerable
+VizWiz_test_00001420.jpg,What's in this bottle?It does smell good doesn't it?,white,unanswerable
+VizWiz_test_00001422.jpg,"Hello, hello, this is Sam.  What's up with you?  Have a nice day, bye.",red,unanswerable
+VizWiz_test_00001426.jpg,What's this guy look like in the photograph?,white,unanswerable
+VizWiz_test_00001427.jpg,What kind of spice is this?,black,unanswerable
+VizWiz_test_00001433.jpg,What is this and does it have a name on it?,white,unanswerable
+VizWiz_test_00001437.jpg,"Can you tell me who's on this baseball card, please?",pink,unanswerable
+VizWiz_test_00001444.jpg,We need more minutes for the eggs to cook.,blue,unanswerable
+VizWiz_test_00001446.jpg,What color is my shirt?,yes,unanswerable
+VizWiz_test_00001449.jpg,What color is these beads?,purple,unanswerable
+VizWiz_test_00001454.jpg,What is this?,yes,unanswerable
+VizWiz_test_00001456.jpg,How much is this worth?,phone,unanswerable
+VizWiz_test_00001461.jpg,What disk is this?,pink,unanswerable
+VizWiz_test_00001464.jpg,What kind of medicine is this?,wine,unanswerable
+VizWiz_test_00001466.jpg,Does this onion look okay?,yes,unanswerable
+VizWiz_test_00001467.jpg,What is this?,red,unanswerable
+VizWiz_test_00001468.jpg,What is this please?,no,unanswerable
+VizWiz_test_00001469.jpg,What is this?,red,unanswerable
+VizWiz_test_00001474.jpg,What is this product? Thank you,yes,unanswerable
+VizWiz_test_00001478.jpg,What is this?,yes,unanswerable
+VizWiz_test_00001482.jpg,Does this say anything?,dog,unanswerable
+VizWiz_test_00001496.jpg,What is the design on the sweatshirt?,blue,unanswerable
+VizWiz_test_00001497.jpg,What is this item?,no,unanswerable
+VizWiz_test_00001499.jpg,Is it sunny outside?,soup,unanswerable
+VizWiz_test_00001502.jpg,What color is this?,yes,unanswerable
+VizWiz_test_00001505.jpg,What is this?,green beans,unanswerable
+VizWiz_test_00001512.jpg,"What is the, what is that?",purple,unanswerable
+VizWiz_test_00001515.jpg,I'd like to know where it...where the...what I have to do to shut this computer off.,grey,unanswerable
+VizWiz_test_00001519.jpg,What is this?,green,unanswerable
+VizWiz_test_00001521.jpg,"What is this, exactly?",black,unanswerable
+VizWiz_test_00001525.jpg,what is in this box?,red,unanswerable
+VizWiz_test_00001527.jpg,How much snow is outside?,yes,unanswerable
+VizWiz_test_00001528.jpg,What is this package?,yes,unanswerable
+VizWiz_test_00001536.jpg,What is this?,remote,unanswerable
+VizWiz_test_00001541.jpg,What does this really say?,no,unanswerable
+VizWiz_test_00001549.jpg,Is this?,yes,unanswerable
+VizWiz_test_00001551.jpg,What kind of flower is this?,grey,unanswerable
+VizWiz_test_00001552.jpg,What kind of iPad mini was at the gross speck center?,grey,unanswerable
+VizWiz_test_00001553.jpg,What kind of meat is this?,computer mouse,unanswerable
+VizWiz_test_00001556.jpg,There is a shirt and a tank top here.  Are they the same color?,pink,unanswerable
+VizWiz_test_00001560.jpg,What is this?,yes,unanswerable
+VizWiz_test_00001564.jpg,Do you see a bug? Thank you.,no,unanswerable
+VizWiz_test_00001566.jpg,Yes I know it's jewelry but I want to know if you could describe it. Tell me how much it costs and if you see an order number. This is a Avon booklet. Yes I'll,yes,unanswerable
+VizWiz_test_00001571.jpg,What is this?,yes,unanswerable
+VizWiz_test_00001573.jpg,Are those DVDs or CDs and what does it say on the disks?,no,unanswerable
+VizWiz_test_00001576.jpg,What is it?,yes,unanswerable
+VizWiz_test_00001579.jpg,What kind of soup is this?,no,unanswerable
+VizWiz_test_00001580.jpg,What sort of entree is this?,no,unanswerable
+VizWiz_test_00001581.jpg,What does this look like?,spaghetti meatballs,unanswerable
+VizWiz_test_00001589.jpg,What is this called?,blue,unanswerable
+VizWiz_test_00001601.jpg,"What color is this shirt?. I think it's black.Oh, yes mam. three one five",no,unanswerable
+VizWiz_test_00001604.jpg,Are you able to read my fortune?,white,unanswerable
+VizWiz_test_00001609.jpg,What is the frequency in this . . . in the display?,white,unanswerable
+VizWiz_test_00001614.jpg,What's in this bottle?,pink,unanswerable
+VizWiz_test_00001620.jpg,what color is this pen?,yes,unanswerable
+VizWiz_test_00001622.jpg,What product is this?,black,unanswerable
+VizWiz_test_00001623.jpg,Is that TV on? And one other thing can you give me a brief history of how your volunteer group started?,grey,unanswerable
+VizWiz_test_00001627.jpg,What is this?,grey,unanswerable
+VizWiz_test_00001630.jpg,What brand name is this logo?,yes,unanswerable
+VizWiz_test_00001637.jpg,What is this?,yes,unanswerable
+VizWiz_test_00001638.jpg,What's the use of this product? ,chair,unanswerable
+VizWiz_test_00001641.jpg,What are the directions for using this cream?,yes,unanswerable
+VizWiz_test_00001644.jpg,What type of cleaner is this?,yes,unanswerable
+VizWiz_test_00001647.jpg,What's on the screen?,wine,unanswerable
+VizWiz_test_00001648.jpg,What is...What is this?,pink,unanswerable
+VizWiz_test_00001651.jpg,size is this?  ,green,unanswerable
+VizWiz_test_00001654.jpg,What is the answer of this question?,no,unanswerable
+VizWiz_test_00001655.jpg,What color is this shirt?,pink,unanswerable
+VizWiz_test_00001657.jpg,What sugar is this?,dog,unanswerable
+VizWiz_test_00001658.jpg,What is this?,yes,unanswerable
+VizWiz_test_00001664.jpg,Can you tell me what is in the box?,grey,unanswerable
+VizWiz_test_00001670.jpg,Which card is this?,yes,unanswerable
+VizWiz_test_00001671.jpg,What is it and what is the picture on it?,no,unanswerable
+VizWiz_test_00001675.jpg,What kind of spice is this?  Thank you,remote,unanswerable
+VizWiz_test_00001677.jpg,What is in this jar?,black,unanswerable
+VizWiz_test_00001679.jpg,Is there a picture on this blanket?,water,unanswerable
+VizWiz_test_00001681.jpg,For how how long do I cook this in the microwave?,keyboard,unanswerable
+VizWiz_test_00001683.jpg,How many milligrams are each tablet in this bottle?,white,unanswerable
+VizWiz_test_00001691.jpg,What's the error message on my screen? ,red,unanswerable
+VizWiz_test_00001693.jpg,"i have one more dinner, i want to see what flavor it was. i had a meatloaf i just wanted to see what this third one was. thanks a lot",no,unanswerable
+VizWiz_test_00001694.jpg,What's this?,green beans,unanswerable
+VizWiz_test_00001695.jpg,What is it?,purple,unanswerable
+VizWiz_test_00001700.jpg,What creamer is this?,yes,unanswerable
+VizWiz_test_00001703.jpg,What does this part of the sky look like in this picture?,green beans,unanswerable
+VizWiz_test_00001704.jpg,What is this,grey,unanswerable
+VizWiz_test_00001714.jpg,who is the artist on this CD,white,unanswerable
+VizWiz_test_00001718.jpg,What does this ring look like?,no,unanswerable
+VizWiz_test_00001724.jpg,"hi, what is this?",no,unanswerable
+VizWiz_test_00001727.jpg,What is this title?,no,unanswerable
+VizWiz_test_00001732.jpg,"What is my, what is my computer screen showing right now?",grey,unanswerable
+VizWiz_test_00001733.jpg,"I'm just trying this questions again, but who is the box belong to? And hopefully, it comes out not really blurred.",white,unanswerable
+VizWiz_test_00001736.jpg,What type of spice is this?,pink,unanswerable
+VizWiz_test_00001738.jpg,What is this food product?,brown,unanswerable
+VizWiz_test_00001741.jpg,What is the title of this book?,yes,unanswerable
+VizWiz_test_00001742.jpg,What flavor snakpak is this?,yes,unanswerable
+VizWiz_test_00001751.jpg,What kind of cereal is this?,grey,unanswerable
+VizWiz_test_00001756.jpg,What does the cap say?,green,unanswerable
+VizWiz_test_00001757.jpg,What is this?,yes,unanswerable
+VizWiz_test_00001761.jpg,What's written on this paper?,green,unanswerable
+VizWiz_test_00001766.jpg,What is this item?,yes,unanswerable
+VizWiz_test_00001776.jpg,What is this?,yes,unanswerable
+VizWiz_test_00001778.jpg,What is this?,red,unanswerable
+VizWiz_test_00001782.jpg,What is this item?,no,unanswerable
+VizWiz_test_00001787.jpg,Whose Jersey is that and what team did he play for?,grey,unanswerable
+VizWiz_test_00001790.jpg,Specifically what card is this and is this rightside up or rightside down? Thank you.,black,unanswerable
+VizWiz_test_00001793.jpg,"Oh, OK.  Oh, I should have known.  It's just -- blonde. Not kidding.  Thank you. I can go now. I know what it is. I can use it now.  I thought it was something else.",yes,unanswerable
+VizWiz_test_00001798.jpg,What does this say?,yes,unanswerable
+VizWiz_test_00001802.jpg,Can you please describe that flower to me? ,grey,unanswerable
+VizWiz_test_00001803.jpg,What item is this? Thank you so much in advance.,red,unanswerable
+VizWiz_test_00001811.jpg,What is the title of this book please?,blue,unanswerable
+VizWiz_test_00001813.jpg,What is this bottle?,green beans,unanswerable
+VizWiz_test_00001815.jpg,written on the picture.,yes,unanswerable
+VizWiz_test_00001821.jpg,What's this?,keyboard,unanswerable
+VizWiz_test_00001822.jpg,What is this object?,blue,unanswerable
+VizWiz_test_00001824.jpg,Can you tell what this is?,grey,unanswerable
+VizWiz_test_00001826.jpg,"Hi there, I'm just wondering, What type of cereal is in this box?",white,unanswerable
+VizWiz_test_00001828.jpg,What does this say?,yes,unanswerable
+VizWiz_test_00001832.jpg,can you tell me if there's any writing on this package and what it is? ,no,unanswerable
+VizWiz_test_00001834.jpg,What is this?,yes,unanswerable
+VizWiz_test_00001838.jpg,What time is it? I need to know now. What time is it? Can you please tell me.,red,unanswerable
+VizWiz_test_00001847.jpg,What is this item?,yes,unanswerable
+VizWiz_test_00001857.jpg,What is inside this can?,no,unanswerable
+VizWiz_test_00001858.jpg,What kind of tea is this?,yes,unanswerable
+VizWiz_test_00001860.jpg,"Can you please read this tag on this curtain to let me know if it says it can be washed or dry cleaned? Either one, thank you.",pink,unanswerable
+VizWiz_test_00001862.jpg,What do you see on the television screen in this photo?,green beans,unanswerable
+VizWiz_test_00001863.jpg,What is in this box?,no,unanswerable
+VizWiz_test_00001867.jpg,What is the label on this container?,dog,unanswerable
+VizWiz_test_00001868.jpg,What colors are this hat?,yes,unanswerable
+VizWiz_test_00001875.jpg,What is this?,yes,unanswerable
+VizWiz_test_00001879.jpg,What color is this?,dog,unanswerable
+VizWiz_test_00001880.jpg,What is this bottle?,phone,unanswerable
+VizWiz_test_00001885.jpg,"Is there anything on the screen regarding a windows 8 install if so what is it, thanks.",no,unanswerable
+VizWiz_test_00001888.jpg,What is this?,yes,unanswerable
+VizWiz_test_00001895.jpg,What kind of tea or coffee is this?,yes,unanswerable
+VizWiz_test_00001897.jpg,Can you please tell me what the label says on this can?,no,unanswerable
+VizWiz_test_00001899.jpg,What is this item?,dog,unanswerable
+VizWiz_test_00001901.jpg,What kind of can is this? Is it pork and beans?,grey,unanswerable
+VizWiz_test_00001904.jpg,What temperature is displayed on the thermostat?  ,dog,unanswerable
+VizWiz_test_00001905.jpg,What does this card say?,grey,unanswerable
+VizWiz_test_00001907.jpg,What color is this?,grey,unanswerable
+VizWiz_test_00001908.jpg,What is this?,yes,unanswerable
+VizWiz_test_00001909.jpg,Can you tell me what this is in the picture?,no,unanswerable
+VizWiz_test_00001911.jpg,what temperature is the...,remote,unanswerable
+VizWiz_test_00001916.jpg,Can you tell me what the temperature on the thermostat is? ,no,unanswerable
+VizWiz_test_00001918.jpg,Is this fabric blue or white?,yes,unanswerable
+VizWiz_test_00001919.jpg,What is the name of the body spray?,white,unanswerable
+VizWiz_test_00001923.jpg,what's this?,brown,unanswerable
+VizWiz_test_00001931.jpg,what does this miscon said?,yes,unanswerable
+VizWiz_test_00001936.jpg,What is this can?,no,unanswerable
+VizWiz_test_00001940.jpg,What is this?,yes,unanswerable
+VizWiz_test_00001942.jpg,How much money is here please?,yes,unanswerable
+VizWiz_test_00001945.jpg,What product is this?,yes,unanswerable
+VizWiz_test_00001951.jpg,Can you tell me if this is an air freshener or a fabric freshener? Thank you.,remote,unanswerable
+VizWiz_test_00001953.jpg,Give me some information about what you see.,blue,unanswerable
+VizWiz_test_00001954.jpg,"What is the writing on this piece of metal? It's not a speaker, I know that. I know it's not a speaker. I just need to know what the writing is on this piece of...",remote,unanswerable
+VizWiz_test_00001958.jpg,Can you tell me who this piece of mail is from? It's a different piece than the first one. Thank you.,no,unanswerable
+VizWiz_test_00001978.jpg,"Yes, this is an image from the Google Streetview. I need a detailed description of the image. I need it to have as specific and detailed as possible.",yes,unanswerable
+VizWiz_test_00001986.jpg,What is this?,no,unanswerable
+VizWiz_test_00001997.jpg,Which kind of food is this?,no,unanswerable
+VizWiz_test_00001999.jpg,name of that please,yes,unanswerable
